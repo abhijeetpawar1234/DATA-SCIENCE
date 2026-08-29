@@ -2,4 +2,9 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+.DS_Storepandas library/file1.xlsx
+file1.xlsx
 .DS_Store
+pandas library/output.csv
+pandas library/output.xlsx
+pandas library/~.xlsx
